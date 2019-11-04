@@ -69,7 +69,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 Github:https://github.com/Justusm10moringaschool?tab=repositories
 
-Website: 
+Live Website: https://justusm10moringaschool.github.io/Delani-studio/
 
 Twitter: @justusmo
 
