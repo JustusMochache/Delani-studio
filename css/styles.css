@@ -61,10 +61,10 @@ body {
 		transform: translateY(0);
 	}
 	40% {
-		transform: translateY(-55px);
+		transform: translateY(-60px);
 	}
 	60% {
-		transform: translateY(-45px);
+		transform: translateY(-55px);
 	}
 }
 
