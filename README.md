@@ -1,6 +1,6 @@
 # Delani Studio
 
-This is a landing page for Akan name generator
+This is a landing page for Delani Studio.
 
 ## Table of content
 
@@ -23,6 +23,8 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 ---
 
 ### Delani studio Form
+
+has 3 required data
 
 ---
 
