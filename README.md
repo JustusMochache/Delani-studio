@@ -12,7 +12,7 @@ portfolio
 
 About us 
 
-social icon
+social icons
 
 ---
 
