@@ -327,11 +327,8 @@ button:hover {
 	padding: 3px;
 	margin: -3px;
 	box-shadow: 0 0 20px rgb(0, 0, 0);
-	
-#message {
-	color: white;
 }
-
+gi
 #message::placeholder {
 	color: white;
 }
@@ -339,4 +336,3 @@ button:hover {
 #email::placeholder {
 	color: white;
 }
-
