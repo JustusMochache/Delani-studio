@@ -4,6 +4,14 @@ This is a landing page for Akan name generator
 
 ## Table of content
 
+Delani studio
+
+What we do
+
+portfolio
+
+
+
 ---
 
 ### Application Descrption
