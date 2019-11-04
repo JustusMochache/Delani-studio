@@ -46,6 +46,7 @@ body {
 	background-image: url("../images/backgrounds/h_img.jpg");
 	background-size: cover;
 	height: 100vh;
+	text-decoration: none;
 }
 #mouseanimate {
 	animation: mouseanimate 2s infinite;
