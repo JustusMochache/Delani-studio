@@ -65,4 +65,4 @@ $(function() {
       alert("Please provide your correct name and email!");
     }
   });
-});
+}); 
